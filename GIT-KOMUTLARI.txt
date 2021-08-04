@@ -1,0 +1,13 @@
+GIT KOMUTARI
+
+
+Bir adresdeki projeyi bilgisayara kopyalamak için;
+git clone [adres-linki]
+
+Bir adresteki projenin son güncel halini çekmek için;
+git pull
+
+Yapılan değişiklikleri github a göndermek için
+git add .
+git commit -m "[Gönderilen-Dosya-Hakkında-Yorum]"
+git push
